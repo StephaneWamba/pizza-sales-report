@@ -6,5 +6,10 @@ Tha csv dataset and and Word documents are located in the ressources directory.
 
 ![pizza dashboard](<./ressources/Pizza Sales Images/pizza_sales_dashboard.png>)
 
+**Softwares Used**:
+ - Power BI
+ - MySQL
+ - MS Office / Excel
+ 
 
 
